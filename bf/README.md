@@ -18,3 +18,6 @@ It is fully [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness)
 | ] | jump instruction back to the command after the matching [ command |
 
 To read more about this click [here](https://en.wikipedia.org/wiki/Brainfuck)
+
+
+
